@@ -17,3 +17,5 @@
 
 ### 🌱 Current studying <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+
+![0xwb7's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xwb7&show_icons=true&theme=dark)
