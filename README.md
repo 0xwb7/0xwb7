@@ -21,7 +21,7 @@
 
 --- 
 
-### 🌱 Current studying
+### 🌱 Current
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
