@@ -29,13 +29,3 @@
 <img src="https://img.shields.io/badge/claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
 </div>
 
----
-
-### 🧑🏻‍💻 BOJ
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woobin2001111)
-
---- 
-
-### 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=0xwb7&theme=dark)
-
