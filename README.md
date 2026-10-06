@@ -2,6 +2,11 @@
 
 마땅한 재주는 없지만 꾸준하게, 열심히 배우고 적어나가겠습니다.
 
+### 📝 Recents Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### 📚 Stack
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
