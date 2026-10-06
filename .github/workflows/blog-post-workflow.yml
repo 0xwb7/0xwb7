@@ -21,3 +21,5 @@ jobs:
         with:
           feed_list: "https://0xwb7.xyz/rss.xml"
           max_post_count: 5
+          date_format: "yyyy-mm-dd"
+          template: "- `$date` [$title]($url)$newline"
