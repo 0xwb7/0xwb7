@@ -5,9 +5,9 @@
 ### 📝 Recents Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Security - 3](https://0xwb7.xyz/posts/spring_security3/)
 - [Spring Security - 2](https://0xwb7.xyz/posts/spring_security2/)
 - [Spring Security란](https://0xwb7.xyz/posts/spring_security/)
 - [하네스 엔지니어링 - 2차 실험](https://0xwb7.xyz/posts/harness3/)
 - [[프로그래머스] 베스트 앨범](https://0xwb7.xyz/posts/p42579/)
-- [[프로그래머스] 네트워크](https://0xwb7.xyz/posts/p43162/)
 <!-- BLOG-POST-LIST:END -->
