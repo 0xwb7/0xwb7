@@ -5,9 +5,9 @@
 ### 📝 Recents Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [스프링 핵심 원리 - 기본편, 섹션 4을 듣고](https://0xwb7.xyz/posts/spring_sec4/)
 - [Spring Security - 3](https://0xwb7.xyz/posts/spring_security3/)
 - [Spring Security - 2](https://0xwb7.xyz/posts/spring_security2/)
 - [Spring Security란](https://0xwb7.xyz/posts/spring_security/)
 - [하네스 엔지니어링 - 2차 실험](https://0xwb7.xyz/posts/harness3/)
-- [[프로그래머스] 베스트 앨범](https://0xwb7.xyz/posts/p42579/)
 <!-- BLOG-POST-LIST:END -->
