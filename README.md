@@ -2,7 +2,7 @@
 
 꾸준하게, 열심히 배우고 적어나가겠습니다.
 
-### 📝 Recents Posts
+### Recents Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [GitHub 10월 가용성 보고서를 읽고](https://0xwb7.xyz/posts/git-oct-availability-report/)
